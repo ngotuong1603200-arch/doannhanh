@@ -1,5 +1,5 @@
 [
-    { "id": 1, "name": "Gà rán truyền thống", "id_category": 1 },
+    { "id": 1, "name": "Gà rán truyền thống", "id_category": 1, "image": ".jpg", "price": 30.000 },
     { "id": 2, "name": "Gà rán sốt cay", "id_category": 1 },
     { "id": 3, "name": "Gà rán sốt xì dầu tỏi", "id_category": 1 },
     { "id": 4, "name": "Cánh gà chiên giòn", "id_category": 1 },
